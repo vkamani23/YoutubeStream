@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_watch_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\watch_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_save_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xhdpi\\save_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_save.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-anydpi-v26\\save.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_watch_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-hdpi\\watch_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_save_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\save_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_watch_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\watch_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\save_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_save_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\save_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_save_round.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-anydpi-v26\\save_round.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_watch_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\watch_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_watch.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-mdpi\\watch.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_save.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-hdpi\\save.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_tube.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\layout\\activity_search_tube.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_save.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxhdpi\\save.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_save_background.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\save_background.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_watch.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxhdpi\\watch.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_save.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxxhdpi\\save.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\save_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\layout_swipeleftlayout.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\layout\\swipeleftlayout.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_save_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\save_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_watch_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\watch_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_watch_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-mdpi\\watch_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_watch_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\watch_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_save_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\save_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_watch_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\watch_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_saved_videos.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\layout\\fragment_saved_videos.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_save_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxxhdpi\\save_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\layout_youtuberow.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\layout\\youtuberow.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_watch_foreground.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\watch_foreground.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_save.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xhdpi\\save.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_watch_round.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-anydpi-v26\\watch_round.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_watch_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\watch_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_watch.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-hdpi\\watch.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_save_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-hdpi\\save_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_watch_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\watch_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_save_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-mdpi\\save_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_save_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\save_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_save_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\save_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_save_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\save_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_watch_video.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\layout\\activity_watch_video.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_watch_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxhdpi\\watch_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_watch_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\watch_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_gradiant.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\drawable\\button_gradiant.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_watch_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xhdpi\\watch_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_save.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-mdpi\\save.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\anim_layoutanimation.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\anim\\layoutanimation.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_save_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxhdpi\\save_round.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_save_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\save_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circuler_button.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\drawable\\circuler_button.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_watch_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\watch_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grad.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\drawable\\grad.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_watch.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxxhdpi\\watch.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_save_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\save_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_watch.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-anydpi-v26\\watch.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_watch_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\watch_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_watch.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xhdpi\\watch.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_watch_background.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\watch_background.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_save_foreground.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\save_foreground.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_watch_foreground.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\watch_foreground.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_save_background.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\save_background.png"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\anim_item_enter_animation.xml.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\anim\\item_enter_animation.xml"
+    },
+    {
+        "merged": "D:\\androidstudiolinux\\youtubeaudio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_watch_round.png.flat",
+        "source": "D:\\androidstudiolinux\\youtubeaudio\\app\\src\\main\\res\\mipmap-xxxhdpi\\watch_round.png"
+    }
+]

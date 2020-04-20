@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.streamthis.youtubeaudio"
+    android:targetSandboxVersion="2"
+    android:versionCode="9"
+    android:versionName="shadow" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <dist:module dist:instant="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsPictureInPicture="true"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaterialComponents"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.streamthis.WatchVideoActivity"
+            android:launchMode="singleTask"
+            android:resizeableActivity="true"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/Theme.MaterialComponents.NoActionBar" />
+        <activity
+            android:name="com.streamthis.youtubeaudio.SearchTube"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label=""
+            android:theme="@style/Theme.MaterialComponents" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.streamthis.youtubeaudio.com.squareup.picasso"
+            android:exported="false" />
+    </application>
+
+</manifest>
