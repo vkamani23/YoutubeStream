@@ -116,7 +116,7 @@ public class SearchTube extends AppCompatActivity {
         lottieAnimationView = findViewById(R.id.loader_lottie);
         lottieAnimationView.animate();
         getSupportActionBar().setTitle("");  // provide compatibility to all the versions
-        Toast.makeText(this, "Developed By Vaibhav Kamani", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Developed By Vaibhav and Raj", Toast.LENGTH_SHORT).show();
         shimmer_recycler_view = findViewById(R.id.shimmer_recycler_view);
         shimmer_recycler_view.animate();
         @SuppressLint("WrongConstant") LinearLayoutManager manager = new LinearLayoutManager(SearchTube.this, OrientationHelper.VERTICAL, false);
